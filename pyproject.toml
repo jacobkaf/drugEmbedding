@@ -13,7 +13,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-torch = ">1"
+torch = ">2"
 tensorboardX = ">2"
 pandas = ">1"
 scipy = ">1"
